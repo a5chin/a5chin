@@ -3,7 +3,7 @@
 		<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=a5chin&show_icons=true&theme=onedark" />
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a5chin&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,ruby,swift,kotlin,tex&exclude_repo=a5chin.github.io,preduct&theme=onedark" />
+		<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a5chin&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,c,ruby,swift,kotlin,tex&exclude_repo=a5chin.github.io,preduct&theme=onedark" />
 	</a>
 </div>
 
